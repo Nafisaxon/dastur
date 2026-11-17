@@ -1,0 +1,16 @@
+{
+  "font_family": "Segoe UI",
+  "font_size": 16,
+  "color_input_bg": "#e2e8f0",
+  "color_output_bg": "#e2e8f0",
+  "color_panel_bg": "#e2e8f0",
+  "color_menubar_bg": "#e2e8f0",
+  "color_menubar_text": "#042442",
+  "color_text": "#042442",
+  "color_border": "#003366",
+  "color_btn_bg": "#063462",
+  "color_btn_text": "#FFFFFF",
+  "color_btn_hover": "#063462",
+  "color_label_text": "#042442",
+  "api_key": ""
+}
